@@ -2,4 +2,4 @@ branches:
   only:
     - master
 
-script: echo hiya
+script: wget http://ocean.nationalgeographic.com/exposure/core_media/ngphoto/image/83949_0_480x360.jpg 
